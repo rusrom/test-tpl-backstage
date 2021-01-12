@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Maserati
+  description: Adding component with existing yaml file
+  tags:
+    - python
+    - package
+spec:
+  type: library
+  lifecycle: deprecated
+  owner: rusrom
