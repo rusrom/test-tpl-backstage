@@ -6,6 +6,8 @@ metadata:
   tags:
     - python
     - package
+  annotations:
+    github.com/project-slug: rusrom/test-tpl-backstage
 spec:
   type: library
   lifecycle: deprecated
